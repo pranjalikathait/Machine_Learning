@@ -38,8 +38,4 @@ NumPy for computationally efficient operations
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
 
-![alt text](image.png)
-
 **Project Architecture:**
-
-![alt text](image-1.png)
