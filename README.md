@@ -31,7 +31,9 @@ Machine Learning
 **Libraries utilized:**
 
 Pandas for data manipulation, aggregation
+
 Matplotlib and Seaborn for visualization and behavior with respect to the target variable
+
 NumPy for computationally efficient operations
 
 **Dataset used:**
